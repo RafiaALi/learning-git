@@ -1,0 +1,8 @@
+git pull
+git status and verify your branch is upto date
+doing work
+git status
+git diff file-path check files and make sure you changes
+git add .
+git commit -m "your commit"
+
